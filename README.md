@@ -59,6 +59,7 @@ Enhance UI with frontend frameworks like React or Vue.
 Add features like typing indicators, emojis, or message timestamps.
 
 Output:
+<img width="1409" height="775" alt="Image" src="https://github.com/user-attachments/assets/f11456c6-86f0-4278-b40e-412981595fa6" />
 
 
 
