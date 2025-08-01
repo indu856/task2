@@ -58,6 +58,8 @@ Store messages using a database like MongoDB or PostgreSQL.
 Enhance UI with frontend frameworks like React or Vue.
 Add features like typing indicators, emojis, or message timestamps.
 
+Output:
+
 
 
 
