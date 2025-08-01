@@ -63,6 +63,3 @@ Add features like typing indicators, emojis, or message timestamps.
 
 
 
-
-## OUTPUT:
-<img width="1409" height="775" alt="Image" src="https://github.com/user-attachments/assets/ff85c7cc-b0ee-47b6-83eb-7c0a9ece775c" />
